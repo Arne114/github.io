@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        
+    </head>
+    <div class="bar">
+        
+ <a class ="active" href="file:///C:/Users/arnec/Downloads/index%20(1).html">Index</a>
+  <a href="file:///C:/Users/arnec/Documents/HTML1/magic.html">Magic</a>
+<a href="file:///C:/Users/arnec/Documents/HTML1/fotos.html">Fotos</a>
+       
+        
+</div>
+  
+    <body>
+        
+        
+        <style>
+         
+.bar {
+  background-color: #333;
+  overflow: hidden;
+}
+
+
+.bar a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 24px;
+}
+
+
+.bar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+
+.bar a.active {
+  background-color: black;
+  color: white;
+}
+    
+          
+            #tekst_1
+            {
+                color:green;
+                
+            }
+        
+        
+            body
+            {
+                background: rgb(0, 183, 204)
+                
+            }
+            
+
+        </style>
+       <h1><strong>Minecraft</strong></h1>
+        <p id="tekst_1">Minecraft is een sandbox-videogame ontwikkeld door de Zweedse videogame-ontwikkelaar Mojang Studios .<br> Het spel is gemaakt door Markus "<strong>Notch</strong>" Persson in de programmeertaal Java .<br> Na verschillende vroege privé-testversies, werd het voor het eerst openbaar gemaakt in mei 2009 voordat het in november 2011 volledig werd uitgebracht.</p>
+        <img src="HTML/minecraft2.jpg" alt="Minecraft foto" width="200px">
+        <h2><strong>Game Modes</strong></h2>
+        <p>Je hebt verschillende Game Modes in Minecraft:</p>
+        <ul>
+            <li><strong>Survival Mode</strong></li>
+            <p>In Survival Mode moeten spelers natuurlijke hulpbronnen zoals hout en steen in de omgeving verzamelen om bepaalde blokken en items te maken.  Afhankelijk van de moeilijkheidsgraad spawnen monsters in donkere gebieden buiten een bepaalde straal van het personage, waardoor spelers 's nachts een schuilplaats moeten bouwen. De modus heeft ook een gezondheidsbalk die is uitgeput door aanvallen van mobs, vallen, verdrinking, in lava vallen, verstikking, honger en andere gebeurtenissen. Spelers hebben ook een hongerbar, die periodiek moet worden bijgevuld door voedsel in het spel te eten.</p>
+            <li><strong>Hardcore Mode</strong></li>
+            <p>Hardcore is een variant van de overlevingsmodus die is vergrendeld op de moeilijkste instelling en permadeath heeft .  Als een speler sterft in een hardcore wereld, mogen ze er geen interactie meer mee hebben, dus ze kunnen ofwel in de toeschouwermodus worden gezet en de wereld verkennen of deze volledig verwijderen. Deze spelmodus is alleen toegankelijk in de Java-editie .</p>
+            <li><strong>Creative Mode </strong></li>
+            <p>In de creatieve modus hebben spelers toegang tot bijna alle bronnen en items in het spel via het inventarismenu en kunnen ze deze onmiddellijk plaatsen of verwijderen. Spelers kunnen de mogelijkheid om vrij door de gamewereld te vliegen naar believen schakelen, en hun personages lopen geen schade op en worden niet beïnvloed door honger.De spelmodus helpt spelers zich te concentreren op het bouwen en creëren van projecten van elke grootte zonder verstoring.</p>
+            <li><strong>Spectator Mode</strong></li>
+            <p>in de Spectator Mode kunnen spelers door blokken vliegen en gameplay bekijken zonder directe interactie. Spelers hebben geen inventaris, maar kunnen teleporteren naar andere spelers en kijken vanuit het perspectief van een andere speler of wezen. Deze spelmodus is alleen toegankelijk in Java Edition en Console Legacy Editions</p>
+            
+        </ul>
+        
+        
+        
+        
+        
+        
+      
+        
+    </body>
+</html>
